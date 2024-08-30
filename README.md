@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil💞❤️
 
-Meu nome é Juliana I. Huppes
+Meu nome é **Juliana I. Huppes**
 
 - Estou estudando o [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScrip
